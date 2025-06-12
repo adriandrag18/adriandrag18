@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adriandrag18
-- 👀 I’m interested in compuer science, cryptocurrencies, investing
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in compuer science, cryptocurrencies, trading and investing
 
 <!---
 adriandrag18/adriandrag18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
